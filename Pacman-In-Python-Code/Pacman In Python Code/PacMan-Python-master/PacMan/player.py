@@ -162,6 +162,6 @@ class Animation(object):
             if self.index == len(self.image_list):
                 self.index = 0
 
-            
+            ### Jalpan Patel
     
         
